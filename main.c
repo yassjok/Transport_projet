@@ -8,7 +8,7 @@
 int main(){
 int choix;
  do {
-        printf("\033[4;34m_____ Gestion des lignes de transport _____\033[0m\n");// in blue colors
+        printf("_____ Gestion des lignes de transport _____\n");// in blue colors
         printf("1. Ajouter une ligne\n");
         printf("2. Affichage des lignes disponibles \n");
         printf("3. Modifier une ligne\n");
